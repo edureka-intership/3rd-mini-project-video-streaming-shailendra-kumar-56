@@ -1,0 +1,25 @@
+{
+  "name": "3rd-mini-project-video-streaming-saillike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edureka-intership/3rd-mini-project-video-streaming-saillike.git"
+  },
+  "author": "Shailendra Kumar Batch 56",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edureka-intership/3rd-mini-project-video-streaming-saillike/issues"
+  },
+  "homepage": "https://github.com/edureka-intership/3rd-mini-project-video-streaming-saillike#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.6.7",
+    "nodemon": "^2.0.20"
+  }
+}
